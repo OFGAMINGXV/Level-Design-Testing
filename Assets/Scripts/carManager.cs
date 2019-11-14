@@ -9,6 +9,7 @@ public class carManager : MonoBehaviour
 
     public Camera carCam;
     public CarUserControl userCtrl;
+    public AeroplaneUserControl2Axis userCtrl1; 
 
     private bool inVeh;
     private GameObject player;
