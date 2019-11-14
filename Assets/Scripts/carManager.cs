@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityStandardAssets.Vehicles.Car;
+using UnityStandardAssets.Vehicles.Aeroplane;
 
 public class carManager : MonoBehaviour
 {
